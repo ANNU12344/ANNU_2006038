@@ -1,0 +1,20 @@
+
+TASK 2
+Please attempt the questions that follow in Python
+Link to the File: Python Task Dummy Data
+Read the csv or excel file. 
+Change the datatypes of the column and check the memory usage before and after the change in the data types.
+Dump the data into the mysql database.
+index the column after the data is inserted.
+Before changing any datatypes of any columns
+Memory usage after the change:
+9664
+After changing the data types of columns
+Memory usage after the change:
+7429
+
+
+
+Note: Please make a note we are dumping the data every day so first delete the indexing from the table and then insert the data.
+
+Submission can be a document or any IDE Notebook
