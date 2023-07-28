@@ -2,7 +2,7 @@
 TASK 2
 Please attempt the questions that follow in Python
 Link to the File: Python Task Dummy Data
-Read the csv or excel file. 
+Read the csv or Excel file. 
 Change the datatypes of the column and check the memory usage before and after the change in the data types.
 Dump the data into the mysql database.
 index the column after the data is inserted.
@@ -11,7 +11,11 @@ Memory usage after the change:
 9664
 After changing the data types of columns
 Memory usage after the change:
-7429
+Dump the data into mysql databases
+I was trying but every time I was getting I am trying to solve that problem 
+but I directly dump the data into MySQL workbench database
+First I created the tables  in MySql command line by using SQL query
+
 
 
 
